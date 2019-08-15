@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="55260" started-at="2019-08-15T06:17:46Z" finished-at="2019-08-15T06:18:41Z">
+  <suite name="Suite" duration-ms="101037" started-at="2019-08-15T06:53:08Z" finished-at="2019-08-15T06:54:49Z">
     <groups>
     </groups>
-    <test name="AddCustomerTest" duration-ms="55260" started-at="2019-08-15T06:17:46Z" finished-at="2019-08-15T06:18:41Z">
+    <test name="AddCustomerTest" duration-ms="101037" started-at="2019-08-15T06:53:08Z" finished-at="2019-08-15T06:54:49Z">
       <class name="com.zoho.signuppage.suitepack.ZohoSignUpTestPage">
-        <test-method status="PASS" signature="intialSetUp()[pri:0, instance:com.zoho.signuppage.suitepack.ZohoSignUpTestPage@60f82f98]" name="intialSetUp" is-config="true" duration-ms="12" started-at="2019-08-15T11:47:46Z" finished-at="2019-08-15T11:47:46Z">
+        <test-method status="PASS" signature="intialSetUp()[pri:0, instance:com.zoho.signuppage.suitepack.ZohoSignUpTestPage@60f82f98]" name="intialSetUp" is-config="true" duration-ms="20" started-at="2019-08-15T12:23:08Z" finished-at="2019-08-15T12:23:08Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- intialSetUp -->
-        <test-method status="PASS" signature="test()[pri:0, instance:com.zoho.signuppage.suitepack.ZohoSignUpTestPage@60f82f98]" name="test" duration-ms="55225" started-at="2019-08-15T11:47:46Z" finished-at="2019-08-15T11:48:41Z">
+        <test-method status="PASS" signature="test()[pri:0, instance:com.zoho.signuppage.suitepack.ZohoSignUpTestPage@60f82f98]" name="test" duration-ms="101013" started-at="2019-08-15T12:23:08Z" finished-at="2019-08-15T12:24:49Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test -->

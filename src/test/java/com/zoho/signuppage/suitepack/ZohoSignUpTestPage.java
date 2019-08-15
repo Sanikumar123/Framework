@@ -10,6 +10,7 @@ public class ZohoSignUpTestPage extends TestBase {
 	public void test()
 	{
 		launchBrowser();
+		tearDown();
 	}
 
 }
