@@ -72,7 +72,7 @@ public class TestBase {
 		 * Intialize the WebDriver
 		 * Set Implicit Wait
 		 * Maximize Browser
-		 * Lauch Browser
+		 * 
 		 */
 		
 		
