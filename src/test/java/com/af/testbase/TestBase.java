@@ -22,7 +22,7 @@ public class TestBase {
 	private static FileInputStream fin;
 	protected static Properties prop;
 	private static WebDriver driver;
-	public static boolean gridStatus = true;
+	public static boolean gridStatus = false;
 	
 	
 	@BeforeSuite
@@ -72,8 +72,7 @@ public class TestBase {
 		 * Intialize the WebDriver
 		 * Set Implicit Wait
 		 * Maximize Browser
-		 * Launch URL
-		 */
+		
 		
 		DriverFactory.setRemote(gridStatus);
 		if(DriverFactory.isRemote())
