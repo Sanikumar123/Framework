@@ -72,6 +72,8 @@ public class TestBase {
 		 * Intialize the WebDriver
 		 * Set Implicit Wait
 		 * Maximize Browser
+		 * Lauch Browser
+		 */
 		
 		
 		DriverFactory.setRemote(gridStatus);
