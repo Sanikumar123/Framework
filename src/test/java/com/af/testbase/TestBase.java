@@ -29,7 +29,7 @@ public class TestBase {
 	public void intialSetUp()
 	{
 	
-		
+		//Setting grid path
 		DriverFactory.setGridPath("http://192.168.0.4:5556/wd/hub");
 
 				

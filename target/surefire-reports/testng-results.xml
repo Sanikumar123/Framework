@@ -2,24 +2,24 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="ZohoSignUpPageSuite" duration-ms="129948" started-at="2019-08-17T08:55:08Z" finished-at="2019-08-17T08:57:17Z">
+  <suite name="ZohoSignUpPageSuite" duration-ms="78665" started-at="2019-08-17T16:21:36Z" finished-at="2019-08-17T16:22:54Z">
     <groups>
     </groups>
-    <test name="validateZohoHomepageTitle" duration-ms="129948" started-at="2019-08-17T08:55:08Z" finished-at="2019-08-17T08:57:17Z">
+    <test name="validateZohoHomepageTitle" duration-ms="78665" started-at="2019-08-17T16:21:36Z" finished-at="2019-08-17T16:22:54Z">
       <class name="com.zoho.signuppage.suitepack.ZohoSignUpTestPage">
-        <test-method status="PASS" signature="intialSetUp()[pri:0, instance:com.zoho.signuppage.suitepack.ZohoSignUpTestPage@27a5f880]" name="intialSetUp" is-config="true" duration-ms="14" started-at="2019-08-17T14:25:07Z" finished-at="2019-08-17T14:25:08Z">
+        <test-method status="PASS" signature="intialSetUp()[pri:0, instance:com.zoho.signuppage.suitepack.ZohoSignUpTestPage@27a5f880]" name="intialSetUp" is-config="true" duration-ms="30" started-at="2019-08-17T21:51:36Z" finished-at="2019-08-17T21:51:36Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- intialSetUp -->
-        <test-method status="PASS" signature="initialization()[pri:0, instance:com.zoho.signuppage.suitepack.ZohoSignUpTestPage@27a5f880]" name="initialization" is-config="true" duration-ms="124280" started-at="2019-08-17T14:25:08Z" finished-at="2019-08-17T14:27:12Z">
+        <test-method status="PASS" signature="initialization()[pri:0, instance:com.zoho.signuppage.suitepack.ZohoSignUpTestPage@27a5f880]" name="initialization" is-config="true" duration-ms="76658" started-at="2019-08-17T21:51:36Z" finished-at="2019-08-17T21:52:52Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- initialization -->
-        <test-method status="PASS" signature="validateZohoHomepageTitle()[pri:0, instance:com.zoho.signuppage.suitepack.ZohoSignUpTestPage@27a5f880]" name="validateZohoHomepageTitle" duration-ms="3674" started-at="2019-08-17T14:27:12Z" finished-at="2019-08-17T14:27:16Z">
+        <test-method status="PASS" signature="validateZohoHomepageTitle()[pri:0, instance:com.zoho.signuppage.suitepack.ZohoSignUpTestPage@27a5f880]" name="validateZohoHomepageTitle" duration-ms="134" started-at="2019-08-17T21:52:52Z" finished-at="2019-08-17T21:52:53Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- validateZohoHomepageTitle -->
-        <test-method status="PASS" signature="quit()[pri:0, instance:com.zoho.signuppage.suitepack.ZohoSignUpTestPage@27a5f880]" name="quit" is-config="true" duration-ms="1758" started-at="2019-08-17T14:27:16Z" finished-at="2019-08-17T14:27:17Z">
+        <test-method status="PASS" signature="quit()[pri:0, instance:com.zoho.signuppage.suitepack.ZohoSignUpTestPage@27a5f880]" name="quit" is-config="true" duration-ms="1710" started-at="2019-08-17T21:52:53Z" finished-at="2019-08-17T21:52:54Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- quit -->
