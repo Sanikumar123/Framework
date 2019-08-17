@@ -7,13 +7,13 @@ import org.testng.annotations.DataProvider;
 public class DataProviders {
 	
 	
-	//@DataProvider
-	/*public static Object[][] customerSuiteData(Method m)
+	@DataProvider(name="LoginFB")
+	public Object[][] getData() throws Exception
 	{
-		String testCase=m.getName();
-		//ExcelReader excel = new ExcelReader(Constants.CUSTOMER_SUITE_PATH);
-		//return DataUtil.getData(testCase, excel);
-	}*/
+		 Object[][] data = ExcelReader.data("C:\\Users\\Sani\\Desktop\\FBLogin.xlsx");
+		 return data;
+		
+	}
 
 	
 	}

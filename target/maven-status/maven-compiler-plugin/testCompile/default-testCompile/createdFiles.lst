@@ -1,2 +1,4 @@
 com\zoho\signuppage\suitepack\ZohoSignUpTestPage.class
+com\zoho\signinpage\suitepack\ZohoSignInTestPage.class
 com\af\testbase\TestBase.class
+test\Rough.class

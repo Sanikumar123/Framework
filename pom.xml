@@ -41,6 +41,40 @@
     <version>2.6</version>
 </dependency>
 
+
+<dependency>
+    <groupId>org.apache.poi</groupId>
+    <artifactId>poi</artifactId>
+    <version>4.0.1</version>
+</dependency>
+<dependency>
+    <groupId>org.apache.poi</groupId>
+    <artifactId>poi-ooxml</artifactId>
+    <version>4.0.1</version>
+</dependency>
+<dependency>
+    <groupId>org.apache.poi</groupId>
+    <artifactId>poi-ooxml-schemas</artifactId>
+    <version>4.0.1</version>
+</dependency>
+<dependency>
+    <groupId>org.apache.poi</groupId>
+    <artifactId>ooxml-schemas</artifactId>
+    <version>1.4</version>
+</dependency>
+<dependency>
+    <groupId>org.apache.xmlbeans</groupId>
+    <artifactId>xmlbeans</artifactId>
+    <version>3.1.0</version>
+</dependency>
+
+<dependency>
+    <groupId>dom4j</groupId>
+    <artifactId>dom4j</artifactId>
+    <version>1.4</version>
+</dependency>
+
+
     
   </dependencies>
   
@@ -62,7 +96,7 @@
            <version>2.20</version>
            <configuration>
            <suiteXmlFiles>
-           <suiteXmlFile>/Framework/src/test/resources/Runner/testng.xml</suiteXmlFile>
+           <suiteXmlFile>/Framework/src/test/resources/Runner/ZohoSignUpPageSuite.xml</suiteXmlFile>
            <!-- <suiteXmlFile>src/test/resources/testng.xml</suiteXmlFile> -->
            </suiteXmlFiles>
            </configuration>

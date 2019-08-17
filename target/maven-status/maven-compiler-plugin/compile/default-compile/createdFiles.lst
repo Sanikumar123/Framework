@@ -1,8 +1,9 @@
 com\af\listeners\ExtentManager.class
 com\af\listeners\ExtentListeners.class
 com\af\utility\ExcelReader.class
+com\af\zohosignuppage\ZohoSignInPageClass.class
+com\af\zohosignuppage\ZohoSignUpPageClass.class
 com\af\utility\DriverFactory.class
-com\af\utility\DataUtil.class
 com\af\utility\DataProviders.class
 com\af\utility\Constants.class
 com\af\utility\DriverManager.class
